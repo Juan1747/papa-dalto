@@ -1,5 +1,5 @@
 # papa-dalto
 Repo curso dalto
 
-##descripcion
+## descripcion
 Este es un repo de prueba solo para el curso de git
