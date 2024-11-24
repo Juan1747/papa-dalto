@@ -1,4 +1,4 @@
-# papa-dalto
+# repositorio-del-curso-de-git
 Repo curso dalto
 
 ## descripcion
